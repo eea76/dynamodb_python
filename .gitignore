@@ -1,0 +1,4 @@
+.DS_Store
+dynamodb_local_latest/
+__pycache__
+venv/
